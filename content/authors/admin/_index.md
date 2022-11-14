@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 魏振寰
+title: Zhenhuan Wei
 
 # Full name (for SEO)
-first_name: Frank
+first_name: Zhenhuan
 last_name: Wei
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: student of Xidian & Xjtu University
+role: Student of Xidian & Xjtu University
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: https://www.xidian.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence and computer vision, feel free to have a contact with me.
 
 # Interests to show in About widget
 interests:
@@ -73,10 +73,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently an undergraduate majoring in software engineering at [Xidian University](https://www.xidian.edu.cn). I have baoyan successfully to [Xi'an Jiaotong University](https://www.xjtu.edu.cn), where I major in software engineering supervised by [Xing Wei](https://gr.xjtu.edu.cn/web/weixing). My research interests include artificial intelligence and computer vision. I'm new to this field and working hard to study. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
-这是个测试
+Look up at the stars and not down at your feet. Be curious anytime.
